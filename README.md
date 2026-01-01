@@ -1,7 +1,7 @@
 This project presents an interactive Tableau dashboard analyzing Indian bike sales and resale trends across brands, fuel types, states, time periods, and sellers.
 The objective is to derive actionable business insights for pricing strategy, resale value prediction, fuel-type comparison, and market demand trends.
 
-The dashboard enables stakeholders to:
+**The dashboard enables stakeholders to:**
 
 •	Understand brand-wise and model-wise resale value
 
