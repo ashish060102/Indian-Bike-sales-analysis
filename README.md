@@ -21,11 +21,13 @@ The dashboard enables stakeholders to:
 
 •	Total Resale Value: ₹329.9 Million
 
+
 **Fuel Mix:**
 
 •	Petrol: 75.03%
 
 •	Hybrid: 24.97%
+
 
 **📈 Dashboard Components**
 
@@ -37,11 +39,13 @@ The dashboard enables stakeholders to:
 
 •	Total Resale Value
 
+
 **2️⃣ Fuel Type Analysis**
 
 •	Bike distribution by Petrol vs Hybrid
 
 •	Average mileage comparison (Hybrid significantly higher)
+
 
 **3️⃣ Brand & Model Analysis**
 
@@ -52,18 +56,23 @@ The dashboard enables stakeholders to:
 •	Brand-wise total sales value
 
 
-
 **4️⃣ Seller Insights**
 •	Resale comparison between Dealers vs Individuals
+
 •	Fuel-type impact on resale value
+
 
 **5️⃣ Geographic Analysis**
 •	State-wise average bike prices
+
 •	Interactive India map for regional insights
 
+
 **6️⃣ Trend Analysis**
+
 •	Average price trend over time
 •	Fuel trend analysis (2015–2025)
+
 
 **🛠 Tools & Technologies**
 
@@ -72,6 +81,7 @@ The dashboard enables stakeholders to:
 •	Excel / CSV – Data cleaning & preprocessing
 
 •	Calculated Fields – Depreciation & pricing logic
+
 
 
 **📉 Business Logic Applied**
@@ -83,8 +93,10 @@ The dashboard enables stakeholders to:
    •	20% in first year
    
    •	10% annually thereafter
+   
 
 **🎯 Key Insights**
+
 •	Hybrid bkes deliver higher mileage and better resale value
 
 •	Dealer-sold bikes generally retain higher resale prices
@@ -94,6 +106,8 @@ The dashboard enables stakeholders to:
 •	State-wise pricing varies significantly, indicating regional demand differences
 
 •	Overall bike prices show gradual decline with minor recovery periods
+
+
 
 **📌 Use Cases**
 
