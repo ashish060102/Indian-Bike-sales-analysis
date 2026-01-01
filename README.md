@@ -36,10 +36,9 @@ Total Original Price
 
 Total Resale Value
 
-2️⃣ Fuel Type Analysis
+**2️⃣ Fuel Type Analysis**
 
 Bike distribution by Petrol vs Hybrid
-
 Average mileage comparison (Hybrid significantly higher)
 
 3️⃣ Brand & Model Analysis
